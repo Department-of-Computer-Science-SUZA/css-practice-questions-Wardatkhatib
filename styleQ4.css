@@ -1,0 +1,49 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px; black;
+}
+
+.img {
+    max-width: 30%;
+    font-size: center;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align:left;
+}
+
+.totorial{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.topic{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    padding-right: 30px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 2px;
+    font-size: 40px;
+}
+
+ul li{
+    color:black;
+}
